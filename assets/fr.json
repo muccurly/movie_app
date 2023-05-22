@@ -1,0 +1,21 @@
+{
+    "favouriteMovies": "Films préférés",
+    "languages": "Langue",
+    "feedback": "Retour d'information",
+    "about": "À propos",
+    "popular": "Populaire",
+    "now": "Maintenant",
+    "soon": "Bientôt",
+    "okay": "D'accord",
+    "aboutDescription": "Ce produit utilise l'API TMDb mais il n'est pas approuvé ou certifié par TMDb. Cette application est développée à des fins éducatives.",
+    "retry": "Réessayez",
+    "somethingWentWrong": "Un problème est survenu...",
+    "checkNetwork": "Veuillez vérifier votre connexion Internet et appuyez sur le bouton Réessayer",
+    "noMovies": "Désolé, pas de films dans cette section",
+    "cast": "Équipe",
+    "watchTrailers": "Montre bandes-annonces",
+    "noMoviesFound": "Aucun film trouvé pour cette requête"
+}
+
+
+

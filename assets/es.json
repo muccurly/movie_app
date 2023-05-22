@@ -1,0 +1,18 @@
+{
+    "favouriteMovies": "Peliculas favoritas",
+    "languages": "Idioma",
+    "feedback": "Retroalimentación",
+    "about": "Acerca De",
+    "popular": "POPULAR",
+    "now": "AHORA",
+    "soon": "PRONTO",
+    "okay": "Bueno",
+    "aboutDescription": "Este producto utiliza la API de TMDb, pero no está respaldado ni certificado por TMDb. Esta aplicación está desarrollada con fines educativos.",
+    "retry": "Rever",
+    "somethingWentWrong": "Algo salió mal...",
+    "checkNetwork": "Verifique su conexión a Internet y toque el botón de reintentar",
+    "noMovies": "Lo siento, no hay películas en esta sección.",
+    "cast": "Emitir",
+    "watchTrailers": "Ver tráilers",
+    "noMoviesFound": "No se encontraron películas para esta consulta"
+}
